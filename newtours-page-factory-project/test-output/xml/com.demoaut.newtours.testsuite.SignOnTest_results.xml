@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SignOn Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.708">
+  <properties />
+  
+  
+            <testcase name="userShouldNavigateToSignOnPageSuccessfully" time="1.708" classname="com.demoaut.newtours.testsuite.RegistrationSignOnTestXLSheetData" />
+      
+</testsuite>

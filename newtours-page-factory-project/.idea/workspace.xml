@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d97b2782-c4eb-4e4d-beba-b8670eac2979" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bqq2Ax7xavef4h0QkhwvqHxpCg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/homeworkweek6" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demoaut.newtours.excelutility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\newtours-page-factory-project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegistrationTest.userShouldRegisterSuccessfully">
+    <configuration name="C:/IdeaProjects/newtours-page-factory-project/src/test/java/com/demoaut/newtours/resources/runners/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="newtours-page-factory-project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demoaut/newtours/resources/runners/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationSignOnTestXLSheetData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="newtours-page-factory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoaut.newtours.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoaut.newtours.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.demoaut.newtours.testsuite.RegistrationSignOnTestXLSheetData" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="newtours-page-factory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoaut.newtours.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoaut.newtours.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.demoaut.newtours.testsuite.RegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.userShouldRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="newtours-page-factory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoaut.newtours.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoaut.newtours.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.demoaut.newtours.testsuite.RegistrationTest" />
+      <option name="METHOD_NAME" value="userShouldRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignOnTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="newtours-page-factory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoaut.newtours.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoaut.newtours.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.demoaut.newtours.testsuite.SignOnTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegistrationTest.userShouldRegisterSuccessfully" />
+        <item itemvalue="TestNG.RegistrationSignOnTestXLSheetData" />
+        <item itemvalue="TestNG.RegistrationTest" />
+        <item itemvalue="TestNG.SignOnTest" />
+        <item itemvalue="TestNG.C:/IdeaProjects/newtours-page-factory-project/src/test/java/com/demoaut/newtours/resources/runners/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d97b2782-c4eb-4e4d-beba-b8670eac2979" name="Default Changelist" comment="" />
+      <created>1589369761802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589369761802</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590024654230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589371871513" />
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590024654230" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1589370250163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589370250163" />
+    <state x="479" y="224" width="420" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589374547073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="420" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589374547073" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1589887966832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589887966832" />
+    <state width="1323" height="93" key="GridCell.Tab.0.bottom" timestamp="1590024981601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
+    <state width="1323" height="93" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
+    <state width="1323" height="93" key="GridCell.Tab.0.center" timestamp="1590024981601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
+    <state width="1323" height="93" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
+    <state width="1323" height="93" key="GridCell.Tab.0.left" timestamp="1590024981601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
+    <state width="1323" height="93" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
+    <state width="1323" height="93" key="GridCell.Tab.0.right" timestamp="1590024981601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
+    <state width="1323" height="93" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1589371312094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589371312094" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589919076554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589919076554" />
+    <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1589378550671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589378550671" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589489705490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589489705490" />
+  </component>
+</project>

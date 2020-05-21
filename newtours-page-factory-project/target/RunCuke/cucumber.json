@@ -1,0 +1,86 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16736864300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should navigate to the Sign-on page",
+        "description": "",
+        "id": "signon-feature;user-should-navigate-to-the-sign-on-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1103715900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 338771100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home page",
+            "match": {
+              "location": "SignOnSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 854633800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Sign-On link",
+            "match": {
+              "location": "SignOnSteps.iClickOnSignOnLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 92180600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should navigate to Sign-On page and see the following text \"Welcome back to Mercury Tours!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Welcome back to Mercury Tours!",
+                  "offset": 62
+                }
+              ],
+              "location": "SignOnSteps.iShouldNavigateToSignOnPageAndSeeTheFollowingText(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "SignOn Feature",
+    "description": "\r\nAs a user I want to login into my account",
+    "id": "signon-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/demoaut/newtours/resources/featurefile/signOn.feature"
+  }
+]

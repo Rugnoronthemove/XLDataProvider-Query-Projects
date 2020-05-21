@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke" verbose="1">
+
+    <groups>
+        <run>
+            <include name="Smoke"></include>
+        </run>
+    </groups>
+
+    <listeners>
+        <listener class-name="com.demoaut.newtours.listeners.Listeners"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+    </listeners>
+
+    <test name="Registration SignOn Test">
+        <classes>
+            <class name="com.demoaut.newtours.testsuite.RegistrationSignOnTestXLSheetData"></class>
+        </classes>
+    </test>
+
+    <test name="Registration Test">
+        <classes>
+            <class name="com.demoaut.newtours.testsuite.RegistrationTest"></class>
+        </classes>
+    </test>
+
+    <test name="SignOn Test">
+        <classes>
+            <class name="com.demoaut.newtours.testsuite.SignOnTest"></class>
+        </classes>
+    </test>
+
+</suite>
