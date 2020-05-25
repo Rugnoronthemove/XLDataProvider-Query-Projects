@@ -16,24 +16,17 @@ import static com.demoaut.newtours.utility.Utility.getRandomString;
 
 public class RegistrationSignOnTestXLSheetData extends TestBase {
 
-    public static final String FILE_PATH = System.getProperty("user.dir") +"/src/test/java/com/demoaut/newtours/resources/testdata/RegistrationSignInData.xlsx";
 
     static String email = null;
 
-    @BeforeClass(groups = {"Regression", "Smoke", "Sanity"})
+/*    @BeforeClass(groups = {"Regression", "Smoke", "Sanity"})
     public void setExcel() {
-        try {
-            ExcelUtility.setExcelFile(FILE_PATH,"Registration");
-//            ExcelUtility.setExcelFile(FILE_PATH,"SignIn");
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
         try {
             ExcelUtility.setExcelFile(FILE_PATH,"SignIn");
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
+    }*/
 
     HomePage homePage;
     SignOnPage signOnPage;

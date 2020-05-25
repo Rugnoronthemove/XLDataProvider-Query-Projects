@@ -242,3 +242,45 @@
 2020-05-21 02:05:946 INFO  RegistrationPage :131 -  Enter: xyz123 in the confirm password field [[ChromeDriver: chrome on WINDOWS (5ce453ce9251181357ba9ad44638ca2b)] -> name: confirmPassword]
 2020-05-21 02:05:478 INFO  RegistrationPage :137 -  Click on Submit button: Proxy element for: DefaultElementLocator 'By.name: register'
 2020-05-21 02:05:555 INFO  RegistrationCompletePage :20 -  Verify: SIGN-OFF is displayed on the Registration completion page [[ChromeDriver: chrome on WINDOWS (5ce453ce9251181357ba9ad44638ca2b)] -> xpath: //a[contains(text(),'SIGN-OFF')]]
+2020-05-22 15:05:816 INFO  BrowserSelector :22 - Chrome Browser Selected
+2020-05-22 15:05:222 INFO  HomePage :40 -  Clicking o n REGISTER link [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> link text: REGISTER]
+2020-05-22 15:05:102 INFO  RegistrationPage :65 -  Enter: Data in the First Name field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: firstName]
+2020-05-22 15:05:346 INFO  RegistrationPage :71 -  Enter: Provider in the Last Name field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: lastName]
+2020-05-22 15:05:559 INFO  RegistrationPage :77 -  Enter: 1234567890 in the phone number field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: phone]
+2020-05-22 15:05:802 INFO  RegistrationPage :83 -  Enter: xyz6M@gmail.com in the email field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: userName]
+2020-05-22 15:05:120 INFO  RegistrationPage :89 -  Enter: 117 high street in the address field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: address1]
+2020-05-22 15:05:336 INFO  RegistrationPage :95 -  Enter: Watford in the city field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: city]
+2020-05-22 15:05:567 INFO  RegistrationPage :101 -  Enter: Hertfordshire in the state field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: state]
+2020-05-22 15:05:940 INFO  RegistrationPage :107 - Enter: HA3 9QW in the postal code field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: postalCode]
+2020-05-22 15:05:508 INFO  RegistrationPage :113 - Select: UNITED KINGDOM from select country drop down [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: country]
+2020-05-22 15:05:794 INFO  RegistrationPage :119 -  Enter: abc@gmail.com in the UserName field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: email]
+2020-05-22 15:05:104 INFO  RegistrationPage :125 -  Enter: abc123 in the password field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: password]
+2020-05-22 15:05:293 INFO  RegistrationPage :131 -  Enter: abc123 in the confirm password field [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> name: confirmPassword]
+2020-05-22 15:05:79 INFO  RegistrationPage :137 -  Click on Submit button: Proxy element for: DefaultElementLocator 'By.name: register'
+2020-05-22 15:05:389 INFO  RegistrationCompletePage :20 -  Verify: SIGN-OFF is displayed on the Registration completion page [[ChromeDriver: chrome on WINDOWS (d002f95886d20ce1187c931da34ce9e2)] -> xpath: //a[contains(text(),'SIGN-OFF')]]
+2020-05-22 15:05:946 INFO  BrowserSelector :22 - Chrome Browser Selected
+2020-05-22 15:05:140 INFO  HomePage :40 -  Clicking o n REGISTER link [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> link text: REGISTER]
+2020-05-22 15:05:320 INFO  RegistrationPage :65 -  Enter: XL in the First Name field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: firstName]
+2020-05-22 15:05:498 INFO  RegistrationPage :71 -  Enter: Sheet in the Last Name field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: lastName]
+2020-05-22 15:05:677 INFO  RegistrationPage :77 -  Enter: 987654321 in the phone number field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: phone]
+2020-05-22 15:05:884 INFO  RegistrationPage :83 -  Enter: xyzWX@gmail.com in the email field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: userName]
+2020-05-22 15:05:144 INFO  RegistrationPage :89 -  Enter: 43 cow lane in the address field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: address1]
+2020-05-22 15:05:308 INFO  RegistrationPage :95 -  Enter: Harrow in the city field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: city]
+2020-05-22 15:05:480 INFO  RegistrationPage :101 -  Enter: Middlesex in the state field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: state]
+2020-05-22 15:05:668 INFO  RegistrationPage :107 - Enter: WD18 7TA in the postal code field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: postalCode]
+2020-05-22 15:05:878 INFO  RegistrationPage :113 - Select: INDIA from select country drop down [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: country]
+2020-05-22 15:05:68 INFO  RegistrationPage :119 -  Enter: xyz@gmail.com in the UserName field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: email]
+2020-05-22 15:05:234 INFO  RegistrationPage :125 -  Enter: xyz123 in the password field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: password]
+2020-05-22 15:05:424 INFO  RegistrationPage :131 -  Enter: xyz123 in the confirm password field [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> name: confirmPassword]
+2020-05-22 15:05:871 INFO  RegistrationPage :137 -  Click on Submit button: Proxy element for: DefaultElementLocator 'By.name: register'
+2020-05-22 15:05:935 INFO  RegistrationCompletePage :20 -  Verify: SIGN-OFF is displayed on the Registration completion page [[ChromeDriver: chrome on WINDOWS (e6a62b916b78a92a265e79ee617544ef)] -> xpath: //a[contains(text(),'SIGN-OFF')]]
+2020-05-22 15:05:672 INFO  BrowserSelector :22 - Chrome Browser Selected
+2020-05-22 15:05:524 INFO  HomePage :34 -  Clicking on SIGN-ON link: [[ChromeDriver: chrome on WINDOWS (97bf4bf431a6b471a9e96fe243db364c)] -> link text: SIGN-ON]
+2020-05-22 15:05:804 INFO  SignOnPage :36 -  Enter: xyz@gmail.com in the UserName field [[ChromeDriver: chrome on WINDOWS (97bf4bf431a6b471a9e96fe243db364c)] -> name: userName]
+2020-05-22 15:05:953 INFO  SignOnPage :42 -  Enter: xyz123 in the Password field [[ChromeDriver: chrome on WINDOWS (97bf4bf431a6b471a9e96fe243db364c)] -> name: password]
+2020-05-22 15:05:215 INFO  SignOnPage :48 -  Clicking on SUBMIT button: [[ChromeDriver: chrome on WINDOWS (97bf4bf431a6b471a9e96fe243db364c)] -> name: login]
+2020-05-22 15:05:961 INFO  BrowserSelector :22 - Chrome Browser Selected
+2020-05-22 15:05:790 INFO  HomePage :34 -  Clicking on SIGN-ON link: [[ChromeDriver: chrome on WINDOWS (1c6c8b6d4c50c0494f88119f127352d2)] -> link text: SIGN-ON]
+2020-05-22 15:05:88 INFO  SignOnPage :36 -  Enter: rm.british@gmail.com in the UserName field [[ChromeDriver: chrome on WINDOWS (1c6c8b6d4c50c0494f88119f127352d2)] -> name: userName]
+2020-05-22 15:05:294 INFO  SignOnPage :42 -  Enter: asur123 in the Password field [[ChromeDriver: chrome on WINDOWS (1c6c8b6d4c50c0494f88119f127352d2)] -> name: password]
+2020-05-22 15:05:420 INFO  SignOnPage :48 -  Clicking on SUBMIT button: Proxy element for: DefaultElementLocator 'By.name: login'

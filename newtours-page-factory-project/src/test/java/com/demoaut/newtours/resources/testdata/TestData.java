@@ -1,6 +1,5 @@
 package com.demoaut.newtours.resources.testdata;
 
-import com.demoaut.newtours.excelutility.ExcelUtility;
 import org.testng.annotations.DataProvider;
 
 public class TestData {

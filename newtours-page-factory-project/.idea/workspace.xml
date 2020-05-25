@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bqq2Ax7xavef4h0QkhwvqHxpCg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,11 +33,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/homeworkweek6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -43,7 +47,7 @@
       <recent name="C:\IdeaProjects\newtours-page-factory-project" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RegistrationTest.userShouldRegisterSuccessfully">
+  <component name="RunManager" selected="TestNG.RegistrationSignOnTestXLSheetData">
     <configuration name="C:/IdeaProjects/newtours-page-factory-project/src/test/java/com/demoaut/newtours/resources/runners/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="newtours-page-factory-project" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demoaut/newtours/resources/runners/testng.xml" />
@@ -125,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.RegistrationTest.userShouldRegisterSuccessfully" />
         <item itemvalue="TestNG.RegistrationSignOnTestXLSheetData" />
+        <item itemvalue="TestNG.RegistrationTest.userShouldRegisterSuccessfully" />
         <item itemvalue="TestNG.RegistrationTest" />
         <item itemvalue="TestNG.SignOnTest" />
         <item itemvalue="TestNG.C:/IdeaProjects/newtours-page-factory-project/src/test/java/com/demoaut/newtours/resources/runners/testng.xml" />
@@ -147,6 +151,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Notifications" timestamp="1590443094639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590443094639" />
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590024654230">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,38 +168,51 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="224" width="420" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589374547073" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1589887966832">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1590443203436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589887966832" />
-    <state width="1323" height="93" key="GridCell.Tab.0.bottom" timestamp="1590024981601">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590443203436" />
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1590158245279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
-    <state width="1323" height="93" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
-    <state width="1323" height="93" key="GridCell.Tab.0.center" timestamp="1590024981601">
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590158245279" />
+    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1590158245279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
-    <state width="1323" height="93" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
-    <state width="1323" height="93" key="GridCell.Tab.0.left" timestamp="1590024981601">
+    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590158245279" />
+    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1590158245279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
-    <state width="1323" height="93" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
-    <state width="1323" height="93" key="GridCell.Tab.0.right" timestamp="1590024981601">
+    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590158245279" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1590158245279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589493320318" />
-    <state width="1323" height="93" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590024981601" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590158245279" />
     <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1589371312094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589371312094" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1590442963738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590442963738" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1590443079936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590443079936" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589919076554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589919076554" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590443239731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590443239731" />
     <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1589378550671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
